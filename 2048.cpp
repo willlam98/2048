@@ -5,6 +5,7 @@
 #include <cmath>
 #include <vector>
 #include <ctime>
+// testing git
 bool merge_num (std::vector<int>& v, int bi, int ei);
 bool game_over(const std::vector<int>& v);
 void print_grid(const std::vector<int>& v);
